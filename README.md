@@ -15,5 +15,6 @@ The teleport destination will be set to the spawn location of the specified worl
 Note that the plugin stops functioning if none of the `permittedWorlds` exist or the `teleportDest.world` is invalid.
 
 ### Build
-The latest version is 0.0.1-SNAPSHOT.
+The latest version is 0.0.1-SNAPSHOT, build with Spigot API 1.8.8-R0.1-SNAPSHOT.
+
 [Download .jar file here](https://github.com/Kory33/SpecificWorldLogin/raw/master/target/SpecificWorldLogin-0.0.1-SNAPSHOT.jar, "SpecificWorldLogin.jar")
