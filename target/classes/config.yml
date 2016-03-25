@@ -1,0 +1,18 @@
+# Add the world's name after a hyphen and a space #
+# to allow players to spawn in that world         #
+permittedWorlds:
+  - world
+  - world_nether
+  - world_the_end
+
+# Specify the location the player will be teleported #
+# in case he/she has logged into the world which is  #
+# NOT in the list above(permittedWorlds)             #
+
+# If you leave the coordinates blank, the player will#
+# be teleported to the spawn location                #
+teleportDest:
+  world: world
+  x:
+  y:
+  z:
