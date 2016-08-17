@@ -9,12 +9,12 @@ import java.util.ArrayList;
 
 
 public class DataHandling {
-	private final SpecificWorldLogin plugin;
-	private ArrayList<World> permittedLoginWorld;
-	private Location teleportLocation;
+    private final SpecificWorldLogin plugin;
+    private ArrayList<World> permittedLoginWorld;
+    private Location teleportLocation;
 
-	//when this variable is false, this plugin does not attempt to teleport players
-	public boolean isFunctioning;
+    //when this variable is false, this plugin does not attempt to teleport players
+    public boolean isFunctioning;
 	
     public DataHandling(SpecificWorldLogin plugin) {
         this.plugin = plugin;
